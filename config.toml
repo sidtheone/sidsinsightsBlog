@@ -43,7 +43,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Hugo is a general-purpose website framework."
+  description = "Welcome to my blog about techonlogy, gaming reviews, consumer electronics reviews and photography!!"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
